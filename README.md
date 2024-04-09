@@ -15,5 +15,9 @@ The React To-Do App is a user-friendly task management application designed to s
 - **HTML:** Markup language for structuring web pages.
 - **CSS:** Styling language for enhancing the visual presentation of the app.
 
+## URL
+- **Code URL:** https://github.com/Rohit27305/To-Do/tree/main/src
+- **Deployed URL:** https://kaleidoscopic-empanada-d86e8a.netlify.app/
+
 ## Project Preveiw
 ![React To-Do App](src/assets/ToDO.png)
